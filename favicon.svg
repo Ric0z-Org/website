@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-5 -8 110 110">
+<defs>
+<mask id="ric0z-folds" maskUnits="userSpaceOnUse" x="-10" y="-10" width="120" height="114">
+<rect x="-10" y="-10" width="120" height="114" fill="#fff"></rect>
+<g fill="none" stroke="#000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 18C17 20 26 25 30 33M22 22L25 15"></path>
+<path d="M-2 47C10 45 20 49 26 57M14 46L16 39"></path>
+<path d="M10 84C20 74 31 75 38 69"></path>
+<g transform="matrix(-1 0 0 1 100 0)">
+<path d="M8 18C17 20 26 25 30 33M22 22L25 15"></path>
+<path d="M-2 47C10 45 20 49 26 57M14 46L16 39"></path>
+<path d="M10 84C20 74 31 75 38 69"></path>
+</g>
+</g>
+</mask>
+</defs>
+<g mask="url(#ric0z-folds)" fill="#D64A3E">
+<path d="M46 10C46 3 38 1 33 5C28 1 18 4 17 12C8 13 3 22 6 30C0 36 0 48 5 52C0 58 2 70 10 72C10 82 20 90 30 88C34 95 46 94 46 86Z"></path>
+<g transform="matrix(-1 0 0 1 100 0)">
+<path d="M46 10C46 3 38 1 33 5C28 1 18 4 17 12C8 13 3 22 6 30C0 36 0 48 5 52C0 58 2 70 10 72C10 82 20 90 30 88C34 95 46 94 46 86Z"></path>
+</g>
+</g>
+</svg>
